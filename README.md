@@ -1,0 +1,2 @@
+# ignite_maven_integrarity
+ignite内嵌maven使用
